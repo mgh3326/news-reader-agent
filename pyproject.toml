@@ -4,6 +4,9 @@ version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.13"
 dependencies = [
+    "beautifulsoup4>=4.13.5",
     "crewai>=0.193.2",
+    "crewai-tools>=0.73.1",
+    "playwright>=1.55.0",
     "python-dotenv>=1.1.1",
 ]
